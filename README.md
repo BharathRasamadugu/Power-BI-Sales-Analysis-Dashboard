@@ -1,6 +1,9 @@
 # Power-BI-Sales-Analysis-Dashboard
 This is the Sales Analytics dashboard for a company that sells bicycles, helmets, bags, and lights. This dashboard will show a full breakdown of their sales by product and year, as well as their budget and variances. For this dashboard, I used three Excel files as sources. This repository also contains the.pbyx file. Please download those excel files together with the.pbyx file and modify the source file location from the data sources setting by clicking on the transform data button which is in queries section.
 
+![Sales Images](https://github.com/user-attachments/assets/2a33f877-afd4-495d-9122-0a3d2f29d45a)
+
+
 ## Sales Forecast
 - The Current Year Sales by Date graph forecasts sales for approximately one year based on prior year's sales patterns. This will help the organization arrange their inventor accordingly.
 
